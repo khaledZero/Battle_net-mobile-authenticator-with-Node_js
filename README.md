@@ -1,4 +1,4 @@
-Battle_net-mobile-authenticator-with-Node_js
+Battle.net mobile authenticator using Node.js
 ============================================
 Implémentation d’un mobile authenticator battle.net en javascript:
  développer un programme exécutable sur une console Node.js pour calculer le code d’authentification à Battle.net. Pour cela, il est nécessaire de développer une bibliothèque javascript effectuant :
